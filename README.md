@@ -14,4 +14,9 @@
   
   abs139@pitt.edu
   
+## Data Sets Used 
+  Parks (https://data.wprdc.org/dataset/parks1)
   
+  Playground Equipment (https://data.wprdc.org/dataset/playground-equipment)
+  
+  Fire Incidents (https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh)
