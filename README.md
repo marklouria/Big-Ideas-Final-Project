@@ -6,3 +6,6 @@
   Stephen Arndt
   
   Abhinav Srinivasan
+
+## Emails
+  mal343@pitt.edu
