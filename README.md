@@ -15,7 +15,7 @@
   abs139@pitt.edu
   
 ## Data Sets Used 
-  Parks (https://data.wprdc.org/dataset/parks1)
+  Speed Humps (https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps/resource/37b2ac41-ae8e-4de1-8405-157e05dc3640)
   
   Playground Equipment (https://data.wprdc.org/dataset/playground-equipment)
   
