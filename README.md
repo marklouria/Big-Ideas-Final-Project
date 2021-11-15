@@ -23,5 +23,6 @@
 
 
 ## Personal Notebooks
+  https://jupyterhub.sci.pitt.edu/hub/user-redirect/lab/tree/Final-Project/speed.ipynb
 
 ## Abstract
