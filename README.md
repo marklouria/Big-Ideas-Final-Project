@@ -9,3 +9,9 @@
 
 ## Emails
   mal343@pitt.edu
+  
+  sda19@pitt.edu
+  
+  abs139@pitt.edu
+  
+  
